@@ -2,8 +2,8 @@
 
 **Purpose**
 ------------------------
-On what bases should a job seeker rely to negotiate his salary? What weight should he give to his diploma or his years of experience for such an assessment? What are the salary indicators available to the recruiters of a company in a certain area?
-These questions being essential both for the employer - they guarantee him competitiveness - and for the employee - his well-being depends on it, we are trying in this project to provide some answers.
+On what bases should job seekers rely to negotiate their salary? What weight should they give to their diploma or years of experience for such an assessment? What are the salary indicators available to the recruiters of a company in a certain area?
+These questions being essential both for the employers - they guarantee their competitiveness - and for the employees - their well-being depends on it, we are trying in this project to provide some answers.
 
 **Datasets**
 ------------------------
